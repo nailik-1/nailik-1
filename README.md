@@ -1,7 +1,7 @@
 ## me kilian
+-----------------------------------------
 
-- I am currently working on
-  ### my life
+- I am currently working on fixing **my life** like the bugs in my code (I ignore them until the very end)
 - 
 
 <!--
