@@ -2,7 +2,7 @@
 -----------------------------------------
 
 - I am currently working on fixing **my life** like the bugs in my code (I ignore them until the very end)
-- I am using my energy on school, more or less...
+- I am using all my energy on school, more or less...
 
 <!--
 **nailik-1/nailik-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
